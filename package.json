@@ -1,0 +1,22 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "yoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahoti/SlackBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahoti/SlackBot/issues"
+  },
+  "homepage": "https://github.com/wahoti/SlackBot#readme",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
